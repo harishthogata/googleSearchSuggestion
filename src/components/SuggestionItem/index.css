@@ -1,0 +1,12 @@
+.suggest-item {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+  margin: 0;
+}
+.suggestions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+}
